@@ -1,2 +1,2 @@
 # GLEW
-GLFW
+GLEW
